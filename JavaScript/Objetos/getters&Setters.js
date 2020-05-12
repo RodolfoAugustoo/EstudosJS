@@ -12,7 +12,7 @@ const sequencia={
     O JS indentifica qual o comportamento 
     Que está chamando a função
     Caso seja leitura, será acessado o 'GET'
-    Ou se for atribuição será acessado o 'SET'
+    Ou se for atribuição será acessado o     'SET'
 */
 
 sequencia.valor = 5000
