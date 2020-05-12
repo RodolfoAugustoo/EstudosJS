@@ -1,5 +1,5 @@
 const _ = require('lodash')
-setInterval( ()=> console.log(_.random(1,10)), 2000)
+setInterval( ()=> console.log(_.random(1,1000)), 150)
 
 /**
  * Nessa aula foi adicionado o nodemon para executar os arquivos
