@@ -11,8 +11,7 @@ function salvaProduto (produto){
   if(!produto.id){
         produto.id = sequence.id
     }
-    produtos[produto.id] = produto
-    
+    produtos[produto.id] = produto    
     return produto
 }
 
