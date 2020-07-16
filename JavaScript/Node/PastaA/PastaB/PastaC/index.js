@@ -1,0 +1,1 @@
+this.olaC = "C mandou um oi!"
